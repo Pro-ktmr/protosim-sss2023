@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[appId]","\u002F[appId]\u002F[textbookId]\u002F[textbookPageId]","\u002F[appId]\u002F[textbookId]\u002FgetPages"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
